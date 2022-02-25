@@ -280,9 +280,10 @@ qb-core/shared/items.lua
 
 
 KEYBINDS KEYMAP COMMANDS
-```
+[SONNY_RENZU]/renzu_hud/conf/keybinds.lua
+```lua
 -- IMPORTANT TO CHANGE ALL OF THIS FIRST BEFORE RUNNING THIS SCRIPT, DEPENDING ON YOUR SERVER CONFIGURATION
--- HERE YOU CAN CHANGE THE KEYBINDS
+-- HERE YOU CAN CHANGE THE KEYBINDS [SONNY_RENZU]/renzu_hud/conf/keybinds.lua
 config.keybinds = {
 	--TOGGLE STATUS
 	showstatus = 'INSERT',-- show toggable status
