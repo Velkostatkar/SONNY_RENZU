@@ -1,0 +1,23 @@
+	--RENZU ITEMS
+	['nitro'] 				 	 = {['name'] = 'nitro', 			  	  		['label'] = 'Nitro', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'nitrous.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Speed up, gas pedal! :D'},
+
+
+	['turbo_racing'] 				 	 = {['name'] = 'turbo_racing', 			  	  		['label'] = 'Turbo Racing', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'turbo_racing.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Speed up, gas pedal! :D'},
+	['turboracing'] 				 	 = {['name'] = 'turboracing', 			  	  		['label'] = 'Turbo Racing Sound', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'turbo_racing.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Turbo Racing Sound! :D'},
+
+	['turbo_sports'] 				 	 = {['name'] = 'turbo_sports', 			  	  		['label'] = 'Turbo Sports', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'turbo_sports.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Speed up, gas pedal! :D'},
+	['turbosports'] 				 	 = {['name'] = 'turbosports', 			  	  		['label'] = 'Turbo Sports Sound', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'turbo_sports.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Turbo Sports Sound! :D'},
+
+	['turbo_street'] 				 	 = {['name'] = 'turbo_street', 			  	  		['label'] = 'Turbo Street', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'turbo_street.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Speed up, gas pedal! :D'},
+	['turbostreet'] 				 	 = {['name'] = 'turbostreet', 			  	  		['label'] = 'Turbo Street Sound', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'turbo_street.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Turbo Street Sound! :D'},
+
+	['street_tirekit'] 				 	 = {['name'] = 'street_tirekit', 			  	  		['label'] = 'Street Tire Kit', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'street_tirekit.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Street Tire Kit! :D'},
+	['sports_tirekit'] 				 	 = {['name'] = 'sports_tirekit', 			  	  		['label'] = 'Sports Tire Kit', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'sports_tirekit.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Sports Tire Kit! :D'},
+	['racing_tirekit'] 				 	 = {['name'] = 'racing_tirekit', 			  	  		['label'] = 'Racing Tires Kit', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'racing_tirekit.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Racing Tires Kit! :D'},
+	['drag_tirekit'] 				 	 = {['name'] = 'drag_tirekit', 			  	  		['label'] = 'Drag Tires Kit', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'drag_tirekit.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Drag Tires Kit! :D'},
+	
+	['head_brace'] 			 		 = {['name'] = 'head_brace', 						['label'] = 'Head Brace', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'head_bandage.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A Head Brace works every time'},
+	['leg_bandage'] 			 		 = {['name'] = 'leg_bandage', 						['label'] = 'Leg Bandage', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'leg_bandage.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A Leg Bandage works every time'},
+	['arm_bandage'] 			 		 = {['name'] = 'arm_bandage', 						['label'] = 'Arm Bandage', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'arm_bandage.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A Arm Bandage works every time'},
+	['body_bandage'] 			 		 = {['name'] = 'body_bandage', 						['label'] = 'Body Bandage', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'chest_bandage.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'A Body Bandage works every time'},
+
