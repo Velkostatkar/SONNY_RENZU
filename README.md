@@ -56,9 +56,26 @@ Client Side Lua and Javascript Side
 ```
 ![image](https://user-images.githubusercontent.com/70021784/155804557-eb4f42ca-5fa2-4ff7-a039-bfa534ddfb6a.png)
 
+
+
+PREVIEW
+https://www.youtube.com/watch?v=EH1wZoJ6aBc
+
+By pressing INSTERT KEY you pop your personal menu:
+
+![image](https://user-images.githubusercontent.com/70021784/155810363-2173a168-c49c-4396-87e8-e0aef6402a09.png)
+
+![image](https://user-images.githubusercontent.com/70021784/155810794-bc082c77-7b42-45d1-8032-d3e838c4abe4.png)
+
+
+
+
 3 versions of car hud
 
 ![image](https://user-images.githubusercontent.com/70021784/155804435-4ed0297c-9dd6-4ed9-9722-1dd7b50619d4.png)
+
+![e1b8d14e4437651d52b234dac39ce1bc0228ba8e](https://user-images.githubusercontent.com/70021784/155810724-079f46f2-31b3-4fc5-a793-9217b0896289.gif)
+![f49f4d4b93f294c432a450c6256c5451a4073725](https://user-images.githubusercontent.com/70021784/155810732-808af558-c3fa-42d7-b800-56636030adeb.gif)
 
 
 
@@ -274,9 +291,43 @@ qb-core/shared/items.lua
 ```
 
 
+#COMMANDS
 
+```lua
+/hud
 
+Relocate Status UI
+/dragui 
 
+Relocate CarHU UI
+/dragcarui
+
+Force CarHUD UI
+/carui simple
+
+Force Crosshair UI
+/crosshair (1-3) ex: /crosshair 3
+
+Force Vehicle Manual Gearbox/Transmision
+Enable/Disable: /manual (stable version)
+WIP: /manual2 (supports custom gear ratios and final drive)
+
+BONUS COMMAND:
+Automatic Driving
+WIP: /drivetocoord
+info: blip waypoint must be set before using the command.
+warning: this is set to drive like a crazy man.
+
+Admin Commands
+Install Vehicle Engine (copy vehicle handling/spec and sounds)
+/installengine : example /installengine zentorno
+info: upon installation, press ARROW DOWN/UP to control the engine lifer.
+
+Heal any damage body parts
+/bodyheal : example /bodyheal leg (leg,arm,head,chest)
+Use a specific items from Config
+/useitem : example: /useitem nitro
+```
 
 
 KEYBINDS KEYMAP COMMANDS
