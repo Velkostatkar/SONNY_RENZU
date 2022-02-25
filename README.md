@@ -3,7 +3,7 @@ Completed QBCore version of Renzu_hud, renzu_engine and renzu_turbo in one pack.
 ALL GLORY TO RENZU: https://github.com/renzuzu
 
 
-# renzu_hud
+# HUD
 - Fivem HUD - UI Framework include Street HUD, Status Hud, Speedometer Hud, Weapon Hud, Body Hud and many more.
 - Design to work without framework or using popular choice Qbcore and ESX framework.
 
@@ -59,10 +59,10 @@ Client Side Lua and Javascript Side
 
 
 
-turbo system
+#Turbo system
 Change Vehicle Turbo system
 
-Feat
+#Feat
 Custom BOV Sounds for each Turbo variants
 
 Custom Power for ea Turbo Variants
@@ -75,7 +75,7 @@ Job Supported
 
 
 
-Usage:
+#Usage:
 
 /giveitem turbostreet 1 --sound effect and boost of turbo
 /giveitem turbo_street 1 --instal a prop and boost of the turbo on car, synced
@@ -91,7 +91,7 @@ default config only mechanic
 
 
 
-Engine:
+#Engine:
 Change Vehicle Engine Sound and Sync to all server One Sync/One Sync Infinity (included carsound pack from gta5mods)
 
 
@@ -101,10 +101,16 @@ Custom Sounds
 Fully Server sync using Onesync state bags
 
 Use
-/giveitem muffler_zentorno 1
-/giveitem muffler_supra2jzgtett 1
+as a mechanic you next to car write
+
+/installengine zentorno
+/installengine supra2jzgtett
+and with arrow down place engine into car
+
 or
+just changesound of your car
 /changesound elegy
+/changesound toysupmk4
 
 
 
@@ -121,6 +127,7 @@ or
 - Extract
 - rename to [SONNY_RENZU]
 - ensure [SONNY_RENZU] --after [qb]
+
 
 
 # TODOS
