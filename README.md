@@ -187,6 +187,31 @@ just changesound of your car
 /changesound elegy
 /changesound toysupmk4
 
+#LIST OF SOUNDS
+
+shonen
+toysupmk4
+sestov10
+rotary7
+rb26dett
+r35sound
+predatorv8
+p60b40
+musv8
+murciev12
+m297zonda
+m158huayra
+lambov10
+k20a
+gt3flat6
+ferrarif12
+f50v12
+f40v8
+elegyx
+diablov12
+brabus850
+avesv
+
 
 
 
