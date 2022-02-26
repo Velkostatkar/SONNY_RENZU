@@ -2899,7 +2899,7 @@ function setKeyless(table) {
             <label class="form-item__label">Car Hud Refresh Rate</label>
             <div class="form-item__control"><small><strong><span class="slider__value" id="rval">500</span><span>ms</span></strong></small></div>
             <div class="slider">
-              <input class="slider__input" type="range" value="0" min="0" max="300" id="refreshrate" />
+              <input class="slider__input" type="range" value="0" min="130" max="130" id="refreshrate" />
               <div class="slider__positive" id="refreshrate2"></div>
             </div>
           </div>
