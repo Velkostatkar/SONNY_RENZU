@@ -299,6 +299,7 @@ that mean you can by defauld DELETE VSTANCER from your resources
 ```yml
 # NO MORE NEEDED TO HAVE
 - vstancer  --can be removed from your files becouse hud have self stancer modes
+- qb-hud
 
 ```
 ```yml
