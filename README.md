@@ -11,6 +11,7 @@ ALL GLORY TO RENZU: https://github.com/renzuzu
 - Design to work with Qbcore framework.
 
 
+```yml
 # Features
 - Advanced Player Status System
 - Draggable UI Status,Car HUD (position will restore upon reconnect)
@@ -51,6 +52,7 @@ ALL GLORY TO RENZU: https://github.com/renzuzu
 #Maximum Possible Optimisation
 Client Side Lua and Javascript Side
 
+```
 
 # Main UI preview
 - Settings
@@ -83,16 +85,20 @@ By pressing INSTERT KEY you pop your personal menu:
 
 
 
+```yml
 
 #BodyStatus HUD
 
 By pressing HOME button you can see whats happen to you
+```
 
 ![image](https://user-images.githubusercontent.com/70021784/155806459-a9112159-15e7-4d25-9cea-761e45ef0403.png)
 
+```yml
 and if you meet a doctor he can
 /checkbody to pop your status on his screen.
 Then he can heal by items
+```
 
 ![image](https://user-images.githubusercontent.com/70021784/155806965-50e77edd-8fb2-43fd-9ae0-6e5bdc77847d.png)
 
@@ -104,10 +110,12 @@ Then he can heal by items
 
 
 
+```yml
 #Turbo system
 
 
 Change Vehicle Turbo system
+```
 
 ![image](https://user-images.githubusercontent.com/70021784/155804495-38f8d0bc-5e06-4658-b2cf-c13aac3c4d08.png)
 ![image](https://user-images.githubusercontent.com/70021784/155805198-600404bd-41bf-4669-b0f8-f021e5adda6c.png)
@@ -115,6 +123,7 @@ Change Vehicle Turbo system
 
 
 
+```yml
 #Feat
 
 
@@ -127,10 +136,12 @@ Power Multiplication Sync with renzu_nitro
 Item Supported
 
 Job Supported
+```
 
 
 
 
+```yml
 #Usage:
 
 /giveitem turbostreet 1 --sound effect and boost of turbo
@@ -145,15 +156,18 @@ Job Supported
 default config only mechanic
 
 
+```
 
 
 
 
+```yml
 #Nitro system
 
 /giveitem ID nitro 1
 then in car pres DELETE to ON/OFF the nitro
 activate nitro with left shift
+```
 ![image](https://user-images.githubusercontent.com/70021784/155804903-96b5543d-ecd6-4dce-9b1b-e81c50a9772a.png)
 ![image](https://user-images.githubusercontent.com/70021784/155805019-2c62c9d7-28b2-483c-a783-af0beec78a35.png)
 
@@ -163,6 +177,7 @@ activate nitro with left shift
 
 
 
+```yml
 #Engine:
 Change Vehicle Engine Sound and Sync to all server One Sync/One Sync Infinity (included carsound pack from gta5mods)
 
@@ -178,15 +193,18 @@ as a mechanic you next to car write
 /installengine zentorno
 /installengine supra2jzgtett
 and with arrow down place engine into car
+```
 
 ![image](https://user-images.githubusercontent.com/70021784/155805567-68046462-c0a0-46d0-a997-25e235673c66.png)
 
 
+```yml
 or
 just changesound of your car
 /changesound elegy
 /changesound toysupmk4
 
+```
 #LIST OF SOUNDS
 
 ```lua
@@ -216,6 +234,7 @@ avesv
 
 
 
+```yml
 
 #TIRE SYSTEM
 
@@ -223,6 +242,7 @@ Usage
 /repairtire  --for mechanics becouse your tires isnt immortal so you must go to mechanic for repairs
 -- usable tire items with different handlings
 
+```
 ![image](https://user-images.githubusercontent.com/70021784/155805883-f6cd4ce5-4e48-4ae4-9ea6-4d69ca588824.png)
 ![image](https://user-images.githubusercontent.com/70021784/155806008-931c6c79-3053-4215-8139-b6199b39aa68.png)
 
@@ -230,68 +250,88 @@ Usage
 
 
 
+```yml
 
 #Car Status
 
 by pressing a key U, pop the status of your car
 
+```
 ![image](https://user-images.githubusercontent.com/70021784/155807542-ae7d3bce-7ba5-4913-a06e-3c4618f07555.png)
 
+```yml
 there you can see the condition of your car whats instales and oil and tire usage so mechanic chan
 /repairtire
 or 
 /changeoil
+```
 
 ![image](https://user-images.githubusercontent.com/70021784/155807789-30e887ad-ed23-401b-bfc4-920f4e1a4e72.png)
 
 
+```yml
 #DRIVE MODE
 by pressing right shift you changing driving modes
 ECO, NORMAL, SPORT, DRIFT 
 
 
+```
 
+```yml
 #CAR CONTROL
 by pressing NumLock you pop a car control menu
 that mean you can by defauld DELETE VSTANCER from your resources
 
+```
 ![image](https://user-images.githubusercontent.com/70021784/155808202-2486fa63-52bd-423b-b2e4-acb30d6e5d34.png)
 ![image](https://user-images.githubusercontent.com/70021784/155808311-c1f836e5-f6ab-47cb-8d6e-2a7c3861ae3f.png)
 
 
 
+```yml
 # Dependency
 - qb-core
 - renzu_hud  --included
 - renzu_engine --included
 - renzu_turbo --included
+```
 
+```yml
 # NO MORE NEEDED TO HAVE
 - vstancer  --can be removed from your files becouse hud have self stancer modes
 
+```
+```yml
 # Installation
 - Download [SONNY_RENZU]
 - Extract
 - rename to [SONNY_RENZU]
 - ensure [SONNY_RENZU] --after [qb]
 
+```
+```yml
 #SQL
 open folder [SONNY_RENZU]
 and instal: hud_turbo_engine_bodystatus.sql
 
 
+```
 
 
+```yml
 #IMAGES
 open folder : [SONNY_RENZU]/[ADD_TO_INVENTORY_IMAGES]
 and copy images into your inventory
 
 
+```
 
+```yml
 #ITEMS
 add items into
 qb-core/shared/items.lua
 
+```
 ```
 
 	--RENZU ITEMS
